@@ -2,10 +2,9 @@
 * WARNING: Please do not remove or modify this comment block.
  *
  * Student Information:
- * Name: ______________________________________
- * Student ID: __________________________________
- * Section Number: ______________________________
- *
+ * Name: Marwan Aboelnour
+ * Student ID: 900233384
+ * Section Number: 01
  * Instructions:
  * - Fill out your name, student ID, and section number above.
  * - This information is mandatory for the submission of your assignment.
